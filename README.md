@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @diyagangwar
 - 🎶 I'm currently a sophomore at Harvey Mudd College
 - 👀 I’m interested in Computer Science and it's applications
-- 🌱 I’m currently learning Com;puter Science with a concentration in Economics and Human Centered Design
+- 🌱 I’m currently learning Computer Science with a concentration in Economics and Human Centered Design
 - 📫 How to reach me dgangwar@g.hmc.edu
 
 <!---
